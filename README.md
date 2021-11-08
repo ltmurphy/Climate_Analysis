@@ -14,8 +14,8 @@ The purpose of the analysis is to gather temperature statistics for the months o
  
  <img width="397" alt="Screen Shot 2020-09-18 at 7 16 24 PM" src="https://user-images.githubusercontent.com/67278193/93652592-8d325580-f9e3-11ea-8c20-e3b1fe9c0393.png">
  
- -- Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
+ -- Standard deviation is 3.25 in June and 3.75
 
 # Summary 
 
-From our data we can tell what our temperatures are but since there are other attributes to the weather such as precipitation it shows that we can run additional queries to let us know whether or not people can come and visit the shop. If we are able to gain more data for the area we can run even more queries! From there we can decide how we would like to build the shop and what areas would make this a more prominent location for visitors to come.
+The data shows little overall variation from June to December. Both months have similar means and maxes. There is slightly larger variation between the minimum temperature but not enough to influence the overall decision. Based of this data alone a combination ice-cream/surf shop would be profitable year round as the temperature will not fluctuate enough to influence customers. However, this is only temperature data. Other data, such as precipitation, would provide a clearer picture of what the future could hold. 
